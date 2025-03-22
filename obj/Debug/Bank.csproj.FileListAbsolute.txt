@@ -5,3 +5,10 @@ C:\Users\wiatr\source\repos\Bank\bin\Debug\Bank.exe
 C:\Users\wiatr\source\repos\Bank\bin\Debug\Bank.pdb
 C:\Users\wiatr\source\repos\Bank\obj\Debug\Bank.exe
 C:\Users\wiatr\source\repos\Bank\obj\Debug\Bank.pdb
+C:\Users\wiatr\Source\Repos\2024January-OOP-PA-TomaszW\bin\Debug\Bank.exe.config
+C:\Users\wiatr\Source\Repos\2024January-OOP-PA-TomaszW\bin\Debug\Bank.exe
+C:\Users\wiatr\Source\Repos\2024January-OOP-PA-TomaszW\bin\Debug\Bank.pdb
+C:\Users\wiatr\Source\Repos\2024January-OOP-PA-TomaszW\obj\Debug\Bank.csproj.AssemblyReference.cache
+C:\Users\wiatr\Source\Repos\2024January-OOP-PA-TomaszW\obj\Debug\Bank.csproj.CoreCompileInputs.cache
+C:\Users\wiatr\Source\Repos\2024January-OOP-PA-TomaszW\obj\Debug\Bank.exe
+C:\Users\wiatr\Source\Repos\2024January-OOP-PA-TomaszW\obj\Debug\Bank.pdb
